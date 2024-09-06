@@ -1,3 +1,12 @@
+function isLocal() {
+  return [
+    '127.0.0.1', 
+    'localhost', 
+    '::1', 
+    '0:0:0:0:0:0:0:1'
+  ].some(localHost => localHost === location.hostname);
+}
+
 // CMS.js Config
 var config = {
 
@@ -6,13 +15,13 @@ var config = {
 
   // Mode 'GITHUB' for Github Pages, 'SERVER' for Self Hosted
   // Defaults to Server mode if not specified
-  mode: 'GITHUB',
+  mode: isLocal() ? 'SERVER' : 'GITHUB',
 
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
   github: {
-    username: 'diraneyya',
-    repo: 'cms.js-starter',
+    username: 'EMMANUELKUS',
+    repo: 'My-website',
     branch: 'main',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.

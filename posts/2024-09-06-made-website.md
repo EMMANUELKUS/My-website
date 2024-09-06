@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Sample blog post
-excerpt: This blog post shows a few different types of content that's supported and styled with Markdown. Basic typography, images, and code are all supported.
-date: 2018-03-01
+title: Made my own website
+excerpt: TODO
+date: 2024-09-04
 tags: sampletag
-author: Mark
+author: Orwa
 ---
 
-This blog post shows a few different types of content that's supported and styled with Markdown. Basic typography, images, and code are all supported.
+TODO
 
 -----
+
+**Below is Markdown with examples:**
 
 Cum sociis natoque penatibus et magnis [dis parturient montes](#), nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
