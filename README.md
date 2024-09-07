@@ -1,4 +1,4 @@
-## CMS.js Starter
+## Emmanuel
 
 **Quick Start**
 
