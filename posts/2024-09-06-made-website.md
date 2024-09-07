@@ -1,49 +1,14 @@
 ---
 layout: post
-title: Made my own website
+title: Learning how to edit my own website
 excerpt: TODO
-date: 2024-09-04
+date: 2024-09-07
 tags: sampletag
-author: Orwa
+author: Emmanuel
 ---
 
-TODO
+I am very happy reaching the main idea or the concept of why my Uncle introduced markdown in Github to me, realizing that this can help me create websites for myself and for other people and help improve our lives.
+Yesterday we learned how to create a page in github and turning it to a website and today has also been a wonderful one, we learned how to edit the website we created yesterday and I am now learning the features that it supports and the ones it doesn't.
+So we edited the date, the title and the author, initially my Uncle was the author but today we changed the author and I am now the author. I now know many features on markdown and how useful they are in creating websites, I know how to upload photos to my repository, I know how to create emojis and many more and all these are very helpful.
+I'm looking forward to knowing more and more about websites and be able to create websites for people and companies to gain something and make life for my Mother and I a little easier and I would be able to take care of myself and my family including people who need help.
 
------
-
-**Below is Markdown with examples:**
-
-Cum sociis natoque penatibus et magnis [dis parturient montes](#), nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo. Nullam id ~~dolor id~~ nibh ultricies vehicula ut id elit.
-
-Etiam porta *sem malesuada magna* mollis euismod.
-
-> Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Heading
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Sub-heading
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-`Example code block`
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Sub-heading
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
