@@ -26,7 +26,7 @@ In 1957 Gold Coast gained her independence and was named ***GHANA***.
 - Music :musical_note:
 - Learning :book:
   
-These are how I live my life.
+These is how I live my life.
 
 ```mermaid
 pie
