@@ -1,4 +1,4 @@
-## emmanuel
+## cms.js
 
 **Quick Start**
 
