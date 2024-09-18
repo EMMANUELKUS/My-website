@@ -1,5 +1,5 @@
 ---
-title: My page
+title: about
 ---
 
 ## <ins>My Country<ins>
