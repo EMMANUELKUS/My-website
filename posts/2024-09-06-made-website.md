@@ -2,7 +2,7 @@
 layout: post
 title: My website
 excerpt: In this post I write about my excitements after learning markdown and how to turn markdown pages into a website. 
-date: 2024-09-07
+date: 2024-10-27
 tags: sampletag
 author: Emmanuel
 ---
