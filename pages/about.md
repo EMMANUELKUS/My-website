@@ -46,6 +46,5 @@ root(EMMANUEL)
   Tall
   Slim
 ```
- ![Lonely](https://emmanuelkus.github.io/My-website/)
- [lonely](https://www.youtube.com/@emmanuelkusiappiah9218)
+ ![Lonely](https://emmanuelkus.github.io/My-website/)(https://www.youtube.com/@emmanuelkusiappiah9218)
 
