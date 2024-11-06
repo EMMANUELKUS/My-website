@@ -46,7 +46,5 @@ root(EMMANUEL)
   Tall
   Slim
 ```
-
-[![this link](https://emmanuelkus.github.io/My-website/)(https://www.youtube.com/@emmanuelkusiappiah9218)
                             
 
