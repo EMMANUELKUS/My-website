@@ -48,5 +48,5 @@ root(EMMANUEL)
 ```
  [Lonely](https://www.youtube.com/@emmanuelkusiappiah9218)
 
- (https://youtube.com/shorts/6ShuyXdcFZ0?si=ty9s58uRuAsMAXeV)
+ [lonely](https://youtube.com/shorts/6ShuyXdcFZ0?si=ty9s58uRuAsMAXeV)
 
