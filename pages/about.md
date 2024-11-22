@@ -50,3 +50,6 @@ root(EMMANUEL)
 
  [lonely](https://youtube.com/shorts/6ShuyXdcFZ0?si=ty9s58uRuAsMAXeV)
 
+ ![Emmanuel in a yellow jersey](https://github.com/EMMANUELKUS/My-Dream/blob/main/football.jpeg?raw=true)
+
+
